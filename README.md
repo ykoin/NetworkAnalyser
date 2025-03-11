@@ -57,7 +57,7 @@
 
 4. **Configure API keys and paths:**
 
-   In the `NetworkAnalyserFinal.py` file, replace the placeholders:
+   In the `NetworkAnalyser.py` file, replace the placeholders:
    - `YOUR_SHODAN_API_KEY`
    - `YOUR_VIRUSTOTAL_API_KEY`
    - `Path to nmap.exe`
